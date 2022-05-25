@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kisah Nabi App</string>
+    <string name="txt_nama">Nama</string>
+    <string name="txt_tempat_kelahiran">Tempat Lahir:</string>
+    <string name="txt_tahun_kelahiran">Tahun Kelahiran</string>
+    <string name="txt_umur">Umur:</string>
+    <string name="txt_lahir">Lahir:</string>
+</resources>
